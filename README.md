@@ -48,9 +48,9 @@
 
 <div align="center">
 
-![Mulugeta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Mulugeta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinet4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinet4&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
 
@@ -61,7 +61,7 @@
 ### 💰 Micro Finance Management System (MFMS)
 > A Laravel-based web system for managing **loans, savings, clients**, and **financial reports**.
 
-- 🏗️ Built with **Laravel + React SPA**
+- 🏗️ Built with **Laravel + MySQL**
 - 📋 Features: Client registration, loan tracking, repayment schedules, report generation
 - 🔒 Role-based access for staff and administrators
 

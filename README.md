@@ -62,7 +62,7 @@
 ### 💰 Micro Finance Management System (MFMS)
 > A Laravel-based web system for managing **loans, savings, clients**, and **financial reports**.
 
-- 🏗️ Built with **Laravel + MySQL**
+- 🏗️ Built with **Laravel + React SPA**
 - 📋 Features: Client registration, loan tracking, repayment schedules, report generation
 - 🔒 Role-based access for staff and administrators
 
@@ -88,8 +88,3 @@
 
 ---
 
-<div align="center">
-
-*"Optimizing for the human who maintains the code is just as important as optimizing for the machine that runs it."*
-
-</div>

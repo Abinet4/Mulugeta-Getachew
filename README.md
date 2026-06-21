@@ -113,6 +113,4 @@
 
 <div align="center">
 
-*"Optimizing for the human who maintains the code is just as important as optimizing for the machine that runs it."*
-
 </div>

@@ -30,9 +30,10 @@
 | Layer | Technologies |
 |---|---|
 | **Backend** | PHP (Laravel), MySQL |
-| **Frontend** | HTML5, CSS3, JavaScript |
+| **Frontend** | React, Tailwind CSS, JavaScript TypeScript |
 | **Tools & Workflow** | Git, GitHub, VS Code |
 | **Database** | MySQL, Database Design & Optimization |
+| **Cloud and Infra** | 🐳 Docker, ☁️ AWS (Amazon Web Services), 🔧 Linux/Ubuntu Server |
 
 ---
 
